@@ -1,0 +1,20 @@
+@import url(./css/root.cdd);
+@import url(./css/border.cdd);
+@import url(./css/media-cel.cdd);
+@import url(./css/media-tablet.cdd);
+@import url(./css/navegadores.cdd);
+
+
+@import url(./css/h.cdd);
+@import url(./css/p.cdd);
+@import url(./css/a.cdd);
+
+
+@import url(./css/css/modo-darck.cdd);
+@import url();
+
+
+/*clases*/
+@import url(./css/src/class/index.cdd);
+
+@import url(./settings.json);
