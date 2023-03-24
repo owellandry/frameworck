@@ -1,0 +1,18 @@
+@import url(./css/root.wc);
+@import url(./css/border.wc);
+@import url(./css/media-cel.wc);
+@import url(./css/media-tablet.wc);
+@import url(./css/navegadores.wc);
+
+
+@import url(./css/h.wc);
+@import url(./css/p.wc);
+@import url(./css/a.wc);
+
+
+@import url(./css/css/modo-darck.wc);
+@import url();
+
+
+/*clases*/
+@import url(./css/src/class/index.wc);

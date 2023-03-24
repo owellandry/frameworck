@@ -1,0 +1,9 @@
+a {
+    font-family: sans-serif;
+    color: rgb(59, 59, 59);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(36, 36, 36);
+}

@@ -1,0 +1,29 @@
+{
+  "name": "code-wc",
+  "version": "1.0.0",
+  "description": "version de prueba ",
+  "categories": ["Programming Languages"],
+  "main": "extension.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "webcode",
+  "license": "ISC",
+  "contributes": {
+    "languages": [
+      {
+        "id": "css",
+        "extensions": [
+          ".css",
+          ".scss",
+          ".less",
+          ".sass",
+          ".wc" 
+        ]
+      }
+    ],
+    "icon": {
+      "iconPath": "icons/logo.png"
+    }
+  }
+}

@@ -1,0 +1,75 @@
+.bdr-list {
+    list-style: none;
+    padding: 0;
+}
+
+.bdr {
+    --border-radius: calc((var(--num) / 20) * 100%);
+    border-radius: var(--border-radius);
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+}
+
+.bdr-1 {
+    --num: 1;
+}
+.bdr-2 {
+    --num: 2;
+}
+.bdr-3 {
+    --num: 3;
+}
+.bdr-4 {
+    --num: 4;
+}
+.bdr-5 {
+    --num: 5;
+}
+.bdr-6 {
+    --num: 6;
+}
+.bdr-7 {
+    --num: 7;
+}
+.bdr-8 {
+    --num: 8;
+}
+.bdr-9 {
+    --num: 9;
+}
+.bdr-10 {
+    --num: 10;
+}
+.bdr-11 {
+    --num: 11;
+}
+.bdr-12 {
+    --num: 12;
+}
+.bdr-13 {
+    --num: 13;
+}
+.bdr-14 {
+    --num: 14;
+}
+.bdr-15 {
+    --num: 15;
+}
+.bdr-16 {
+    --num: 16;
+}
+.bdr-17 {
+    --num: 17;
+}
+.bdr-18 {
+    --num: 18;
+}
+.bdr-19 {
+    --num: 19;
+}
+.bdr-20 {
+    --num: 20;
+}
