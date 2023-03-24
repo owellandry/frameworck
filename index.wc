@@ -16,3 +16,5 @@
 
 /*clases*/
 @import url(./css/src/class/index.wc);
+
+@import url(./settings.json);
